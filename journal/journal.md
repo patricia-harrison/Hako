@@ -1,4 +1,4 @@
-# 1701QCA Final project journal: *Insert your name here*
+# 1701QCA Final project journal: *HAKO - Desk Companion*
 
 <!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
 
@@ -6,6 +6,68 @@
 
 ## Related projects ##
 <!--- Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing. --->
+
+### *Arduino MP3 Player project* ###
+
+<!--- Modify code to insert image of related project below --->
+![Image](missingimage.png)
+
+<!--- Fill out name and link to related project in the code below. --->
+[Arduino MP3 Player Project](https://educ8.tv/arduino-mp3-player/])
+
+This project is related to mine as it is centered around the DFPlayer module. The related project is a tutorial which teaches the reader to create an MP3 player using an Arduino and the DFPlayer mini-module. In a brief description of the project, it is stated that that the tutorial is *heavily* reliant on the aformentioned module, which is the same with my HAKO project. 
+
+Both of these projects provide the user with an interactive experience through pressing a button and playing one of however many tracks the DFPlayer has been provided. However, this tutorial uses three buttons; one to play and pause, one to play the next track and another to play the previous track, while I implemented a single button that will play a random track. 
+<!--- Include information about why this project is related to yours. --->
+
+
+### *Dice* ###
+
+<!--- Modify code to insert image of related project below --->
+![Image](missingimage.png)
+
+<!--- Fill out name and link to related project in the code below. --->
+[Dice](https://[URL of related project])
+
+<!--- Include information about why this project is related to yours. --->
+
+<!--- Repeat code above for a total of 6 related projects --->
+
+### *Insert name of related project here* ###
+
+<!--- Modify code to insert image of related project below --->
+![Image](missingimage.png)
+
+<!--- Fill out name and link to related project in the code below. --->
+[Name of related project](https://[URL of related project])
+
+<!--- Include information about why this project is related to yours. --->
+
+<!--- Repeat code above for a total of 6 related projects --->
+
+### *Insert name of related project here* ###
+
+<!--- Modify code to insert image of related project below --->
+![Image](missingimage.png)
+
+<!--- Fill out name and link to related project in the code below. --->
+[Name of related project](https://[URL of related project])
+
+<!--- Include information about why this project is related to yours. --->
+
+<!--- Repeat code above for a total of 6 related projects --->
+
+### *Insert name of related project here* ###
+
+<!--- Modify code to insert image of related project below --->
+![Image](missingimage.png)
+
+<!--- Fill out name and link to related project in the code below. --->
+[Name of related project](https://[URL of related project])
+
+<!--- Include information about why this project is related to yours. --->
+
+<!--- Repeat code above for a total of 6 related projects --->
 
 ### *Insert name of related project here* ###
 
