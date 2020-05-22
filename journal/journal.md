@@ -116,20 +116,44 @@ https://microbit-micropython.readthedocs.io/en/latest/tutorials/random.html
 ## Conceptual development ##
 
 ### Design intent ###
+To create a fun and interactive desk companion which provides the user with positive affirmations and encouragement. 
 <!--- Include your design intent here. It should be about a 10 word phrase/sentence. --->
 
 ### Design ideation ###
+The initial idea for this project was to create some sort of interactive desk “toy” or device that would act as a type of “companion”, in a sense. This idea had been sparked from a few different things - the companion cube from the game Portal, Cozmo and Vector robots made by Anki, tamagochi and the screaming roomba which was hacked by the YouTuber Michael Reeves. These pieces of inspiration combined into the idea for a wholesome desk robot companion which would provide the user with affirmations, kind words and reminders to stay hydrated and to look after themselves. The intended purpose for this device is to act as a ‘friend’ of sorts for those who spend a lot of time working at their desk and often forget to take breaks. It could also help ease anxiety, intrusive thoughts and lowered self esteem through its kind and cute demeanor. The intended physical interaction between the robot and the user is to be kept simple, so that anyone can use it. The interaction will preferably occur through a button on the top or “face” of the robot (the side of the box with a small LED screen, in which the robot will show expressions).
+
+A possible name for the companion robot “Hako” (はこ) which means box/case/crate in japanese. I thought this name was cute, short and fitting, considering that this robot companion will essentially be a little talking cubed companion that sits on the usered desk. The expressions have been influenced by both of the Anki robots (Vector and Cozmo) and cute japanese emoticons. The design of the box will preferably be kept simple and clean. Hence the cube shape and simple interactions the user can experience (the press of a button which triggers the scripted lines and the expressioned the user can see via the LED screen on the front side of the robot.)
 <!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
 
 ### Final design concept ###
+
+The final design concept is very similar to the concept thought up in the previous assignment. Everything stayed to same, except for the LED screen. Because of the current circumstances, I was unable to purchase my desired LED screen and decided to make use of the imbedded one of the micro:bit. As expressions are difficult to communicate through this small LED screen, the emotions planned for HAKO to display were not implemented. However, the little LED heart still stayed. Everytime HAKO "speaks", the heart will flash. There were also a few design aditions to the front face of HAKO. One of these new aditions is a simple greeting phrase in japanese which translates to "Hello, I'm HAKO!".
 <!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
 
 ### Interaction flowchart ###
+
+
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
 ![Image](missingimage.png)
 
 ## Process documentation ##
+
+To get to this point in the project required a lot of searching and rummaging around the internet for similar projects, products and code. The start of this project consisted entirely of brainstorming a product that would:
+
+aid with mental health
+encourage users to look after themselves (e.g. stay hydrated)
+provide affirmations to the user and provide wholesome encouragement
+to be placed on desks in offices/bedrooms
+Essentially, the initial idea for this product came from the desire I had for a cute, encouraging desk 'companion'. I knew that for me, something like this little robot would be very helpful for when I am struggling with anxiety, self-esteem issues and intrusive thoughts. Sometimes all I need is something small to cheer me up, e.g. getting a cute meme from a friend could instantly snap me out of that mood. Thus I believe a little robot that provide wholesome affirmations and reminders at the press of the button could not only help myself, but possible others who feel the same.
+
+The process of finalising this project was quite frustrating as there were quite a few issues. These issues were mainly code based. There were times of switching between the code 'blocks' provided by micro:bit and other situations which called for python code. Through the switching between these two coding options many things began to go wrong. When testing the code, it would often only play one track before either being cut off by a loud buzzing or would simply replay the same track over and over. This was quite a hurdle to get over, as there were many various ways (povided from online tutorials) which were supposed to stop the intrusive buzzing and allow the code to randomly pick an .mp3 file. After many fails, I had approached my tutor, who after helping me with the code, was able to figure out the main issue with my code. After appling the suggested code, the micro:bit would successfully pick random files to play after button A had been pressed. That left the second issue - the intrusive buzzing. After trying a few solutions suggested by people whom had experienced a similar problem, only to have those solutions fail, I thought it'd be best to try and re-wire everything. Once everything had been re-wired, the buzzing was less prominent, but still there. After some thinking, I thought that it could simply be the power - that there was not enough being trasnmitted to the DFPlayer and the speaker. Once replacing the batters, the buzzing simply went away. 
+
+( Any code that had been attempted from sources will be found above in the "other research" section. )
+
+![Image](missingimage.png)<#1 #2
+![Image](missingimage.png)inside
+![Image](missingimage.png)inside
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
 
 This should have quite a lot of information! It will likely include most of the process documentation from assessment 2 which can be copied and pasted here.
@@ -140,11 +164,8 @@ There will likely by a dozen or so images of the project under construction. The
 
 ## Final code ##
 
+![Image](missingimage.png)
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
-
-## Design process discussion ##
-<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
-
 
 ## Reflection ##
 
