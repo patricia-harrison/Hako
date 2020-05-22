@@ -96,7 +96,19 @@ This impressive project was created to not only function as a clock but also so 
 Various tutorials and projects where read through in order to figure out the desired code. The help of my tutor also heavily impacted the success of this project. 
 The tutorials used to create this project are:
 
+https://github.com/DFRobot/DFPlayer-Mini-mp3/blob/master/DFPlayer_Mini_Mp3/examples/DFPlayer_receive/DFPlayer_receive.ino
 
+https://www.codespeedy.com/play-random-mp3-from-a-folder-in-python/
+
+https://cyaninfinite.com/playing-music-tracks-with-df-robot-mp3-player-module/#Playing_the_tracks
+
+https://reprage.com/post/dfplayer-mini-cheat-sheet
+
+https://techtutorialsx.com/2019/03/24/microbit-micropython-generating-random-numbers/
+
+https://pynative.com/python-random-shuffle/
+
+https://microbit-micropython.readthedocs.io/en/latest/tutorials/random.html
 
 
 <!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
