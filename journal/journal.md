@@ -10,7 +10,7 @@
 ### *Arduino MP3 Player project* ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
+
 
 <!--- Fill out name and link to related project in the code below. --->
 [Arduino MP3 Player Project](https://educ8.tv/arduino-mp3-player/])
@@ -38,7 +38,7 @@ This tutorial is related to mine through the use of the "pick random -- to --" m
 ### *Micro:bit Christmas Tree* ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
+
 
 <!--- Fill out name and link to related project in the code below. --->
 [Miro:bit Christmas Tree](https://www.dfrobot.com/blog-1132.html)
@@ -164,6 +164,14 @@ The process of finalising this project was quite frustrating as there were quite
 
 ## Reflection ##
 
+I feel the most successful part of the project was definitely the final code and the voice lines. The external look of the project definitely needed a lot of improvements, however the original idea was for HAJO to simply look like a box (hence the name, which translate to 'box' or 'crate').
+Throughout the duration of this course, I have been able to learn a lot of skills which all came in handy for this project. Depite me having learnt better time management skills through this class, they did not do much to help as the code wasn't functioning up until the day before this assignment was due. Despite all of the researching and viewing of similar projects, the only source that made a true difference was David Harris (thank you), whom had essentially saved the code. 
+
+The parts of this project I feel to be novel is the concept of having a desk 'companion' as the company Anki has successfully created an interactive and seemingly alive little robot (Vector and Cozmo). Though HAKO is no where near as interactive as Cozmo or Vector, HAKO does provide the user with affirmations which can be accessed simply by the press of a button. 
+
+I feel that the overall execution of the project could have been much better if only the current circumstances were more desirable. Having a lack of aesthetically pleasing and lasting materials and no real one-on-one interaction (not having the same imaginatve atmosphere to work in) definitely cause the quality of this project to drop and took much longer than it should have taken to create. If I were to extend this project, I would love to implement a proper LED screen for expressions and a cleaner, more aesthetic physical appearance. 
+
+Over all, I am still happy with this project, considering everything. 
 <!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
 
 What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
