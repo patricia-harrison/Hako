@@ -35,13 +35,15 @@ This tutorial is related to mine through the use of the "pick random -- to --" m
 
 <!--- Repeat code above for a total of 6 related projects --->
 
-### *Insert name of related project here* ###
+### *Micro:bit Christmas Tree* ###
 
 <!--- Modify code to insert image of related project below --->
 ![Image](missingimage.png)
 
 <!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://[URL of related project])
+[Name of related project](https://www.dfrobot.com/blog-1132.html)
+
+This project is related to mine because it uses the DFPlayer mini module. The projects shows readers how to create a rotating christmas tree with LEDs and music. When button A is pressed, the LEDs light up, the DFPlayer module begins to play music and the 360 servo begins to spin clockwise. When AB is pressed, it cause the servo to spin anticlockwise and when button B is pressed, it turns everything off. 
 
 <!--- Include information about why this project is related to yours. --->
 
