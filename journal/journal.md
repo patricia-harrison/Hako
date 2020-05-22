@@ -27,7 +27,9 @@ Both of these projects provide the user with an interactive experience through p
 ![Image](missingimage.png)
 
 <!--- Fill out name and link to related project in the code below. --->
-[Dice](https://[URL of related project])
+[Dice](https://microbit.org/projects/make-it-code-it/dice/)
+
+This tutorial is related to mine through the use of the "pick random -- to --" maths code block which is provided in the makecode section on the Micro:bit website. The tutorial walks the reader through how to make their own responsive dice with the Miro:bit. When the micro:bit is shaken, it will trigger the code to randomly pick a number between 1 and 6. Once the number is picked, it wil be displayed on the inbuilt LED screen. My project follows a very similar concept. When button A is pressed, it will randomly pick an .mp3 file and play it while displaying a flashing heart. 
 
 <!--- Include information about why this project is related to yours. --->
 
