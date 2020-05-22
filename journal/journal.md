@@ -132,19 +132,17 @@ The final design concept is very similar to the concept thought up in the previo
 
 ### Interaction flowchart ###
 
-
+![Image](flow.png)
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
-
-![Image](missingimage.png)
 
 ## Process documentation ##
 
 To get to this point in the project required a lot of searching and rummaging around the internet for similar projects, products and code. The start of this project consisted entirely of brainstorming a product that would:
 
-aid with mental health
-encourage users to look after themselves (e.g. stay hydrated)
-provide affirmations to the user and provide wholesome encouragement
-to be placed on desks in offices/bedrooms
+- aid with mental health
+- encourage users to look after themselves (e.g. stay hydrated)
+- provide affirmations to the user and provide wholesome encouragement
+- to be placed on desks in offices/bedrooms
 Essentially, the initial idea for this product came from the desire I had for a cute, encouraging desk 'companion'. I knew that for me, something like this little robot would be very helpful for when I am struggling with anxiety, self-esteem issues and intrusive thoughts. Sometimes all I need is something small to cheer me up, e.g. getting a cute meme from a friend could instantly snap me out of that mood. Thus I believe a little robot that provide wholesome affirmations and reminders at the press of the button could not only help myself, but possible others who feel the same.
 
 The process of finalising this project was quite frustrating as there were quite a few issues. These issues were mainly code based. There were times of switching between the code 'blocks' provided by micro:bit and other situations which called for python code. Through the switching between these two coding options many things began to go wrong. When testing the code, it would often only play one track before either being cut off by a loud buzzing or would simply replay the same track over and over. This was quite a hurdle to get over, as there were many various ways (povided from online tutorials) which were supposed to stop the intrusive buzzing and allow the code to randomly pick an .mp3 file. After many fails, I had approached my tutor, who after helping me with the code, was able to figure out the main issue with my code. After appling the suggested code, the micro:bit would successfully pick random files to play after button A had been pressed. That left the second issue - the intrusive buzzing. After trying a few solutions suggested by people whom had experienced a similar problem, only to have those solutions fail, I thought it'd be best to try and re-wire everything. Once everything had been re-wired, the buzzing was less prominent, but still there. After some thinking, I thought that it could simply be the power - that there was not enough being trasnmitted to the DFPlayer and the speaker. Once replacing the batters, the buzzing simply went away. 
@@ -174,8 +172,4 @@ I feel that the overall execution of the project could have been much better if 
 Over all, I am still happy with this project, considering everything. 
 <!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
 
-What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
 
-What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
-
-What might be an interesting extension of this project? In what other contexts might this project be used? --->
