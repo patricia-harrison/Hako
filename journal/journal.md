@@ -24,7 +24,7 @@ Both of these projects provide the user with an interactive experience through p
 ### *Dice* ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
+![Image](dice.png)
 
 <!--- Fill out name and link to related project in the code below. --->
 [Dice](https://microbit.org/projects/make-it-code-it/dice/)
@@ -52,7 +52,7 @@ This project is related to mine because it uses the DFPlayer mini module. The pr
 ### *Arduino Application- Test DFPlayer Mini MP3 Module* ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
+![Image](miniradio.jpg)
 
 <!--- Fill out name and link to related project in the code below. --->
 [Test DFPlayer Mini MP3 Module](https://www.dfrobot.com/blog-277.html)
@@ -65,7 +65,7 @@ This project is similar to mine because it is centered around the use of the DFP
 ### *Portable Toy Speaker* ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
+![Image](toyradio.png)
 
 <!--- Fill out name and link to related project in the code below. --->
 [Portable toy speaker](https://www.dfrobot.com/blog-482.html)
@@ -79,7 +79,7 @@ This project is related to mine because it is centered around sound. The creator
 ### *Death Star word clock* ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
+![Image](deathstar.jpg)
 
 <!--- Fill out name and link to related project in the code below. --->
 [Deather Star Word Clock](https://www.dfrobot.com/blog-534.html)
@@ -151,20 +151,15 @@ The process of finalising this project was quite frustrating as there were quite
 
 ( Any code that had been attempted from sources will be found above in the "other research" section. )
 
-![Image](missingimage.png)<#1 #2
-![Image](missingimage.png)inside
-![Image](missingimage.png)inside
-<!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
+![Image](designcom.png)
+![Image](inside1.jpg)
+![Image](inside2.jpg)
+<!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.-->
 
-This should have quite a lot of information! It will likely include most of the process documentation from assessment 2 which can be copied and pasted here.
-
-Use subheadings to structure this information. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
-
-There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
 
 ## Final code ##
 
-![Image](missingimage.png)
+![Image](code.png)
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
 
 ## Reflection ##
