@@ -41,7 +41,7 @@ This tutorial is related to mine through the use of the "pick random -- to --" m
 ![Image](missingimage.png)
 
 <!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://www.dfrobot.com/blog-1132.html)
+[Miro:bit Christmas Tree](https://www.dfrobot.com/blog-1132.html)
 
 This project is related to mine because it uses the DFPlayer mini module. The projects shows readers how to create a rotating christmas tree with LEDs and music. When button A is pressed, the LEDs light up, the DFPlayer module begins to play music and the 360 servo begins to spin clockwise. When AB is pressed, it cause the servo to spin anticlockwise and when button B is pressed, it turns everything off. 
 
@@ -55,7 +55,7 @@ This project is related to mine because it uses the DFPlayer mini module. The pr
 ![Image](missingimage.png)
 
 <!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://www.dfrobot.com/blog-277.html)
+[Test DFPlayer Mini MP3 Module](https://www.dfrobot.com/blog-277.html)
 
 This project is similar to mine because it is centered around the use of the DFPlayer mini module. The project's purpose is to make a mini, functioning radio with a DFPlayer, an arduino and two speakers. However, the creator of this project did not wish randomise the music played from the radio and instead set a specific order in which the tracks would play. 
 <!--- Include information about why this project is related to yours. --->
@@ -68,7 +68,7 @@ This project is similar to mine because it is centered around the use of the DFP
 ![Image](missingimage.png)
 
 <!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://www.dfrobot.com/blog-482.html)
+[Portable toy speaker](https://www.dfrobot.com/blog-482.html)
 
 
 This project is related to mine because it is centered around sound. The creator of this project made a miniature toy speaker using an arduino, an analog sound sensor and a HiVi speaker. Once the power on button is pressed, a song will play. 
@@ -82,7 +82,7 @@ This project is related to mine because it is centered around sound. The creator
 ![Image](missingimage.png)
 
 <!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://www.dfrobot.com/blog-534.html)
+[Deather Star Word Clock](https://www.dfrobot.com/blog-534.html)
 
 
 This impressive project was created to not only function as a clock but also so the user can play a functioning game of snake. This project can be related to mine because the created used a DFPlayer for all sound effected used in their creation. 
@@ -95,6 +95,8 @@ This impressive project was created to not only function as a clock but also so 
 
 Various tutorials and projects where read through in order to figure out the desired code. The help of my tutor also heavily impacted the success of this project. 
 The tutorials used to create this project are:
+
+
 
 
 <!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
